@@ -1,5 +1,4 @@
-import base64
-import linecache
+import base64, linecache
 
 # Grab source_name.
 target_order = 0
